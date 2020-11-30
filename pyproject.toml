@@ -2,7 +2,7 @@
 name = "rainmaker"
 version = "0.1.0"
 description = "rainmaker strategy"
-authors = ["sam <sam@freighttrust.com>"]
+authors = ["sam <sam@manifoldfinance.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.6.1"
